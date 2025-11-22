@@ -23,11 +23,9 @@ I combine a **global business mindset** with **technical, analytical skills** to
 ## 📌 Featured Projects
 ### **📊 Financial Reports in Python**
 *Financial ratio analysis using pandas (gross margin, leverage, industry comparison).*  
-👉 *Repo coming soon.*
 
 ### **📈 Net Revenue Management in Excel**
 *Multi-sheet financial model exploring value drivers, margin impact & revenue levers.*  
-👉 *Repo coming soon.*
 
 ### **🤖 TikTok Claim Classification (AI Data Project)**
 *19k-row dataset analysing engagement, claim vs opinion classification, and algorithmic patterns.*
