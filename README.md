@@ -72,4 +72,5 @@ GitHub · Jupyter · Google Colab · DataCamp · Bloomberg
 ## 📫 Contact
 **Email:** craigdoyle1102004@gmail.com  
 **LinkedIn:** www.linkedin.com/in/craig-doyle4 
+
 **GitHub:** You’re already here 😉
