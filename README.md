@@ -34,7 +34,7 @@ I combine a **global business mindset** with **technical, analytical skills** to
 
 ## 🛠️ Tools & Technologies
 **Languages:**  
-Python · SQL · HTML/CSS  
+Python · SQL 
 
 **Data & Analysis:**  
 Pandas · NumPy · Matplotlib · Tableau · Excel (Advanced)  
@@ -73,7 +73,3 @@ GitHub · Jupyter · Google Colab · DataCamp · Bloomberg
 **Email:** craigdoyle1102004@gmail.com  
 **LinkedIn:** www.linkedin.com/in/craig-doyle4 
 **GitHub:** You’re already here 😉
-
----
-
-Thanks for visiting my profile—more projects coming soon! 🚀
